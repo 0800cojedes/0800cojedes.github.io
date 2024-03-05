@@ -278,7 +278,7 @@ button {
     float: left;
     font-size: 16px;
     margin: 0px;
-    color: #252525;
+    color: #fcfafa;
 }
 
 .btn_main {
@@ -366,7 +366,7 @@ button {
     width: 100%;
     float: left;
     font-size: 40px;
-    color: #252525;
+    color: #020202;
     font-weight: bold;
 }
 
@@ -682,7 +682,7 @@ button {
     width: 70%;
     float: left;
     font-size: 30px;
-    color: #040101;
+    color: #fffbfb;
     font-weight: 500;
 }
 
