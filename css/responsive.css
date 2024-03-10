@@ -188,12 +188,12 @@
     }
     .navbar-expand-lg .navbar-nav .nav-link {
         display: block;
-        color: #272a2a;
+        color: #f8f3f3;
         text-align: center;
     }
     .navbar-light .navbar-nav .nav-link:focus,
     .navbar-light .navbar-nav .nav-link:hover {
-        color: #15e4d0;
+        color: #f5e236;
     }
     .nav-link {
         display: none;
